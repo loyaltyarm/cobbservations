@@ -1,4 +1,4 @@
-baseurl             = "https://loyaltyarm.github.io/"
+baseurl             = "https://cobbservations.com"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"

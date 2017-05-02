@@ -8,7 +8,7 @@ slug = "about"
 
 +++
 
-Nick is currently a Senior Systems Engineer on the Developer Productivity team at [Uber Advanced Technologies](https://www.uberatc.com]). At Uber ATG, his main focus is building reliable, immutable infrastructure and improving the developer experience for self-driving developers. 
+Nick is currently a Senior Systems Engineer on the Developer Productivity team at [Uber Advanced Technologies](https://www.uberatc.com). At Uber ATG, his main focus is building reliable, immutable infrastructure and improving the developer experience for self-driving developers. 
 
 In years previous, Nick supported mobile continuous integration infrastructure for Uber's massive mobile engineering organization. In addition, Nick also provided full support for Uber's global core business units in areas such as endpoint management, telecommunications strategy, network topologies, and scalability planning and design.
 

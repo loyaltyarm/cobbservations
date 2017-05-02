@@ -4,9 +4,11 @@ description = "An initial post about moving to Hugo and to help get things in wo
 tags = [ "general", "web" ]
 categories = [ "general", "web" ]
 date = "2017-04-09T23:22:59-04:00"
-draft = true
+draft = false
 slug = "is-this-thing-on"
 +++
+
+# Wat
 
 This is the initial post in a series of steps I am taking to move [Cobbservations](https://cobbservations.wordpress.com) to a site powered by [Hugo](https://gohugo.io). I stumbled across `hugo` recently while working with the maintainers of the [`micromdm`](https://github.com/micromdm) project. The [beautiful site](https://micromdm.io) hosting the documentation is build with `hugo`, and given the looks, I just _had_ to try it. 
 

@@ -10,7 +10,7 @@ title               = "Nick Cobb"
 pygmentsuseclasses  = true
 # disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
-# googleAnalytics     = "UA-98500532-1"
+googleAnalytics     = "UA-98500532-1"
 
 [permalinks]
 fixed = ":title/"

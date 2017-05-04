@@ -10,7 +10,7 @@ title               = "Nick Cobb"
 pygmentsuseclasses  = true
 # disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
-# googleAnalytics     = "UA-123-45"
+# googleAnalytics     = "UA-98500532-1"
 
 [permalinks]
 fixed = ":title/"
@@ -55,8 +55,3 @@ twitter                = "//twitter.com/loyaltyarm"
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
 
 avatar                 = "img/headshot.jpg" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
-# gravatar             = ""                # do not use in the same time as avatar
-
-# The following are DEPRECATED.
-gatracker              = "XYZ" # use googleAnalytics instead
-initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.

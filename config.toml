@@ -32,7 +32,7 @@ url                    = "/about/"
 name                   = "Resume"
 weight                 = -100
 identifier             = "code"
-url                    = "/resume/"
+url                    = "https://linkedin.com/in/loyaltyarm"
 
 [params]
 latestpostscount       = 5                             # how many posts to display on the home page

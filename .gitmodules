@@ -4,6 +4,3 @@
 [submodule "themes/cocoa"]
 	path = themes/cocoa
 	url = https://github.com/nishanths/cocoa-hugo-theme.git
-[submodule "themes/cocoa-eh"]
-	path = themes/cocoa-eh
-	url = https://github.com/fuegowolf/cocoa-eh-hugo-theme.git

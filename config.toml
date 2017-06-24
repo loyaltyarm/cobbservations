@@ -8,7 +8,7 @@ publishdir          = "public"
 author              = "Nick Cobb"
 title               = "Nick Cobb"
 pygmentsuseclasses  = true
-# disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
+disqusshortname     = "cobbservations"
 pluralizelisttitles = false
 googleAnalytics     = "UA-98500532-1"
 

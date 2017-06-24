@@ -34,6 +34,10 @@ weight                 = -100
 identifier             = "code"
 url                    = "https://linkedin.com/in/loyaltyarm"
 
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
 [params]
 latestpostscount       = 5                             # how many posts to display on the home page
 i18n_flags             = false                         # whether to display small country flags for available translations

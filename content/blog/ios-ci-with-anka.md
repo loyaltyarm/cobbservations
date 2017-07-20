@@ -8,7 +8,7 @@ title = "iOS CI with Anka Virtualization - Part 1"
 _Disclaimer: I am an advisor for Veertu Inc._
 
 ## Introduction 
-Starting with this post, I am writing a series of articles to show you how to get started build your own macOS private cloud for iOS CI using [Veertu Inc.'s](https://veertu.com) latest technology, [Anka](https://veertu.com/anka-technology/). Anka was built to support many of the principles foundational to good continuous integration systems, including supporting fast incremental deploys and immutable infrastructure concepts. In this series, I'll show you how to get started with their hypervisor, registry, and controller to take full advantage of tools that were purpose-built to support iOS and macOS CI on Apple hardware.
+Starting with this post, I am writing a series of articles to show you how to get started building your own macOS private cloud for iOS CI using [Veertu Inc.'s](https://veertu.com) latest technology, [Anka](https://veertu.com/anka-technology/). Anka was built to support many of the principles foundational to good continuous integration systems, including supporting fast incremental deploys and immutable infrastructure concepts. In this series, I'll show you how to get started with their hypervisor, registry, and controller to take full advantage of tools that were purpose-built to support iOS and macOS CI on Apple hardware.
 
 For this post, we will get started with installation and creating our very first Anka VM.
 
